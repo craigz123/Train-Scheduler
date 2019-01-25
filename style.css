@@ -1,0 +1,23 @@
+.wrapper {
+    padding: 100px;
+}
+
+.container {
+    background-image: url("images/train.jpg");
+    text-align: center;
+    margin: initial;
+    padding: inherit;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    font-size: 200px;
+}
+
+#schedule-header {
+    background-color: royalblue;
+    font-family: 'Lobster', cursive;
+}
+
+#add-train {
+    background-color: royalblue;
+    font-family: 'Lobster', cursive;
+}
